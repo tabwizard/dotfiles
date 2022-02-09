@@ -1,0 +1,7 @@
+ENTRY "/home/wizard" URL "/home/wizard"
+ENTRY "/etc" URL "/etc"
+ENTRY "/var/log" URL "/var/log"
+ENTRY "/run/media/wizard" URL "/run/media/wizard"
+ENTRY "Netology" URL "/home/wizard/Dropbox/Разное/Netology"
+ENTRY "Dropbox" URL "/home/wizard/Dropbox"
+ENTRY "Distr" URL "/home/wizard/.BigDisk/Distr"
